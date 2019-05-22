@@ -1,35 +1,43 @@
 # timp-717-1_arm
+# timp-717-1_arm
 717-1_arm-1-1.c
-Problem solving: displays the message "hello world"
-output format - char
+Решаемая задача: выводить сообщение "привет мир"
+входные данные - отсутствуют
+выходные данные - фраза "привет мир"
 
 717-1_arm-1-2.c
-Problem solving: summarizes the numbers
-input format - int
-output format - int
+Решаемая задача: суммирование чисел
+входные данные - два числа типа int
+выходные данные - сумма их чисел
 
 717-1_arm-1-3.c
-Problem solving: raises a power 
-input format - int
-output format - int
+Решаемая задача: возведение в степень
+входные данные - два числа типа int 
+выходные данные - число возведенное в степень
 
 717-1_arm-2-1.c
-Problem solving: non-decreasing sequence check
-input format - int, 
-output format - int
+Решаемая задача: проверка на неубывающую последовательность
+входные данные - количество чисел и сами числа
+выходные данные - 1 или 0
 
 717-1_arm-2-2.c
-Problem solving: non-increasing sequence check
-input format - int,sequence digit
-output format - int
+Решаемая задача: проверка на невозрастающую последовательность
+входные данные - количество чисел и сами числа
+выходные данные - 1 или 0
 
 717-1_arm-3-1.c
-Problem solving: 
-input format - n (int) 
-output format - modified list
+Решаемая задача: программа создает односвязный список и работает с ним
+входные данные - числа типа int
+выходные данные - числа типа int 
 
 717-1_arm-3-2.c
-Problem solving: 
-input format - inе
-output format - modified list
+Решаемая задача: программа создает двусвязный список и работает с ним
+входные данные - числа типа int
+выходные данные - числа типа int
+
+717-1_arm-4-1.c
+Решаемая задача: программа создает бинарное дерево и осуществляет различные функции 
+входные данные - числа типа int
+выходные данные - числа типа int
+
 
